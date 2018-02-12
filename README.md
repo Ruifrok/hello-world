@@ -1,2 +1,4 @@
 # hello-world
-Eeen eerste poging
+Een eerste poging
+
+Zo gaan we aan de slag met git. Ben benieuwd wat het oplevert
